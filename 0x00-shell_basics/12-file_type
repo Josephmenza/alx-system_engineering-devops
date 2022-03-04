@@ -1,2 +1,2 @@
 #!/bin/bash
-touch  /12-file_type/tmp/iamafile
+touch  /12-file_type/tmp iamafile
